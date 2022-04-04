@@ -1,8 +1,3 @@
-equipo1=input("Equipo local")
-equipo2=input("Equipo visitante")
-
-
-
 def gol1():
         jugador1 = int(input("Ingrese el numero del jugador"))
         x = int(input("Si gol escriba 1, sino escriba 2"))
@@ -28,5 +23,4 @@ def gol2():
         return gol_visitante
         
      
-print("marcador parcial",equipo1,gol1(),equipo2,gol2())
-
+print("marcador parcial","local",gol1(),":","visitante",gol2())
