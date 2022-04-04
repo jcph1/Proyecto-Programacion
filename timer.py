@@ -12,3 +12,4 @@ def countdown(num_of_mins):
 
 inp = input('Ingrese el numero de minutos de juego: ')
 countdown(inp)
+#revisar
