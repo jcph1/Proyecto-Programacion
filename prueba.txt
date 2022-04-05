@@ -1,3 +1,4 @@
 git add . (añadir todo)
 git commit -m 'mensaje del commit'  (comentar el update)
 git push (enviar a git)
+git pull (trae los cmabios realizados por los demas integrantes)
