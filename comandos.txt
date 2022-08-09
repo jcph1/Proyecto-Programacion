@@ -1,0 +1,5 @@
+git add . (añadir todo)
+git commit -m 'mensaje del commit'  (comentar el update) (confirmar esos archivos)
+git push (enviar a git) (subir los cambios directamente)
+git pull (trae los cmabios realizados por los demas integrantes)
+git cloud (descargar repositorio)
